@@ -1,4 +1,4 @@
-# SITE-DE-viagem
+# SITE-DE-VIAGEM
 
 <img src="./img/logo-site.jpg" width="2000px" alt="foto wanderson"/><br>
 
