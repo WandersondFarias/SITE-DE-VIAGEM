@@ -26,15 +26,10 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
-
- 
-
+</div>
 
 
- </div>
-
-
-### 🤝 Colaboradores
+### 🚀 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
